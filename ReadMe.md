@@ -31,7 +31,7 @@ country The two-character ISO country code of the card.
 rates The exchange rate used. Funds are settled to you in USD.
 
 
-# Submission Files Description
+# Files Description
 The submission folder contains the following files: 
 - DeelPresentation.pdf - a presentation file of my findings. 
 - Deel.ipynb - Jupyter notebook containing python codes, graphs, assumptions, and thought process.
